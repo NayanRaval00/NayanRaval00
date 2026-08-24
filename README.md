@@ -36,11 +36,6 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NayanRaval00&theme=dark&dark_bg=0d1117&color=4285f4&type=png" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NayanRaval00&theme=github_dark&utcOffset=5.30" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NayanRaval00&theme=github-dark-v2&color=4285f4&hide_border=true&area=true" width="97%" />
 </p>
 
